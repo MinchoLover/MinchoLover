@@ -1,9 +1,5 @@
 # 👋 Hello! I'm Minchan Jeong
 
-![이미지](./Assets/IMG_4616.jpeg)
-
-<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚶‍➡️ 🚶‍➡️ 🚶‍➡️Learning Hard . . . 🚶‍➡️ 🚶‍➡️ 🚶‍➡️<h1/>
-
 ## 🚀 Objective
 
 - Full-stack web developer with a passion for creating engaging, user-centric experiences.
