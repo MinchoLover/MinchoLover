@@ -1,11 +1,5 @@
 # 👋 Hello! I'm Minchan Jeong
 
-## 🚀 Objective
-
-- Full-stack web developer with a passion for creating engaging, user-centric experiences.
-
-
-
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
