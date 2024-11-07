@@ -3,15 +3,7 @@
 ## 🚀 Objective
 
 - Full-stack web developer with a passion for creating engaging, user-centric experiences.
-  
 
-## 🔧 Projects
-
-<!-- 통계 및 GitHub 정보 -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinchoLover&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 <!--내용 부분-->
@@ -65,3 +57,11 @@
   <!--메일 이미지 삽입-->
   </a>
 </div>
+
+<br>
+
+<!-- 통계 및 GitHub 정보 -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinchoLover&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
