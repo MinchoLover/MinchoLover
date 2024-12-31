@@ -55,8 +55,7 @@
 <br>
 
 <!-- 통계 및 GitHub 정보 -->
-<div align="center">
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinchoLover&show_icons=true&theme=radical)
-</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
