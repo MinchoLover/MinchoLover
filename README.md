@@ -44,6 +44,8 @@
 
 <!-- 통계 및 GitHub 정보 -->
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinchoLover&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
   ![Top Langs](https://github-readme-stats.vercel.app/api?username=MinchoLover&show_icons=true&theme=radical)
   ![Bottom Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
