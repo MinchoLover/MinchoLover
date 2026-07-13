@@ -2,15 +2,15 @@
 
 # Minchan Jeong
 
-### Full-Stack Developer
+### Frontend & Flutter Developer
 
-Building web products from frontend to deployment.
+Building clean and intuitive experiences for web and mobile.
 
 <br />
 
 <img
-  src="https://skillicons.dev/icons?i=ts,js,react,nextjs,java,firebase,supabase&theme=dark"
-  alt="Tech Stack"
+  src="https://skillicons.dev/icons?i=ts,js,react,nextjs,dart,flutter,java&theme=dark"
+  alt="Core Tech Stack"
 />
 
 <br />
@@ -35,21 +35,19 @@ Building web products from frontend to deployment.
 
 ## About Me
 
-프론트엔드부터 데이터베이스, API 연동, 배포까지  
-서비스의 전체 흐름을 이해하고 구현하는 풀스택 개발자를 지향합니다.
+웹과 모바일 환경에서 사용자 경험을 고민하며 서비스를 개발합니다.  
+깔끔한 UI와 유지보수하기 좋은 코드에 관심이 많습니다.
 
-사용자 경험뿐만 아니라 유지보수성과 확장성을 고려하며 개발합니다.
+## Tech
 
-## Tech Stack
+**Web**  
+React · Next.js · TypeScript · JavaScript · Tailwind CSS · styled-components
 
-**Frontend**  
-TypeScript · JavaScript · React · Next.js · Tailwind CSS
+**Mobile**  
+Flutter · Dart · Riverpod · Provider
 
 **Backend & API**  
-Java · REST API · OpenAPI · Swagger
+Firebase · Supabase · REST API · OpenAPI
 
-**Database & BaaS**  
-Firebase · Supabase
-
-**Deployment & Tools**  
-Vercel · Netlify · GitHub Pages · Git · GitHub · Figma
+**Tools & Deployment**  
+Git · GitHub · Figma · Vercel · Netlify · Firebase Hosting
