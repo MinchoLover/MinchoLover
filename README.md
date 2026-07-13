@@ -143,7 +143,7 @@
 ## 📊 GitHub
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Mincholover">
     <img
       height="175"
       src="https://github-stats-extended.vercel.app/api?username=Mincholover&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
@@ -163,14 +163,14 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&area=true"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mincholover&theme=github-dark&hide_border=true&area=true"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github&hide_border=true&area=true"
+        srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mincholover&theme=github&hide_border=true&area=true"
       />
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github&hide_border=true&area=true"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Mincholover&theme=github&hide_border=true&area=true"
         alt="GitHub activity graph"
       />
     </picture>
